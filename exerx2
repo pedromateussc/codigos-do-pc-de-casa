@@ -1,0 +1,4 @@
+nome = "Pedro Thanos"
+idade = 22
+peso = 345.6
+print( nome, idade, peso)
